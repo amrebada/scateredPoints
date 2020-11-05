@@ -1,0 +1,2 @@
+# scateredPoints
+Created with CodeSandbox
